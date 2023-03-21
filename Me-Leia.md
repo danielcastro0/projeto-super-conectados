@@ -1,0 +1,5 @@
+# projeto-super-conectados
+
+🍀Esse foi o meu primeiro projeto de site do filme Super Conectados que foi feito a partir de uma modificação de um projeto do canal Devemdobro. Sinto que foi importante pois através dele consegui ter um primeiro contato com essas tecnologias e ainda que não possua um conhecimento aprofundado de cada uma, consegui modificar toda a página principalmente na parte de estilização (cores, conteúdo, favicon....). 
+A parte que eu achei mais legal, foi a da responsividade – que permitiu com que o conteúdo vá se adaptando ao tamanho da tela-, outro fator interessante, foi o de vídeo que fica reproduzindo ao fundo do site, enquanto o conteúdo fica apresentado na frente.  
+Toda a parte de estilização e de responsividade, bem como, do fundo do site foi feito com o Css; foi usado o Javascript para a interação do botão “Trailer” que exibe um modal de vídeo ao ser clicado. Um possível uso para esse layout e elementos do site, é ser integrado a um landpage ou também serve como página inicial de um site de vendas ou serviços 🤓🥳
